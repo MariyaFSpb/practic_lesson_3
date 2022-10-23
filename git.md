@@ -15,7 +15,11 @@ Markdown не является заменой HTML.
 
    ### *Список литературы*
 
-   + марк лутц «изучаем python»
+   + Марк Лутц «изучаем python»
    + "Head First Java, Изучаем Java",  Кэти Сьерра, Берт Бэйтс
    + Ян Эрик Солем «Программирование компьютерного зрения на Python»
    + Изучаем Python Эрик Мэтиз
+
+   ! [кот] (https://drevologia.ru/wp-content/uploads/2018/12/beautiful-trees-wallpapers-43.jpg)
+
+
