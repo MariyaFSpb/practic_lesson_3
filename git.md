@@ -20,6 +20,8 @@ Markdown не является заменой HTML.
    + Ян Эрик Солем «Программирование компьютерного зрения на Python»
    + Изучаем Python Эрик Мэтиз
 
-   ! [кот] (https://drevologia.ru/wp-content/uploads/2018/12/beautiful-trees-wallpapers-43.jpg)
+![дерево](beautiful-trees-wallpapers-43.jpg)
+
+
 
 
