@@ -27,8 +27,25 @@ Markdown не является заменой HTML.
 
 
 
+
+__ФОТО ДЕРЕВЬЕВ__:
+
+
+__1. Весеннее дерево__
 ![дерево](beautiful-trees-wallpapers-43.jpg)
 
+
+__2. Осеннее дерево__
+![осеннее дерево](kartinki24_ru_trees_210.jpg)
+
+__3. Зимнее дерево__
+
+
+![зимнее дерево](1638787187_2-pibig-info-p-zima-derevya-priroda-krasivo-foto-2.jpg)
+
+__3. Летнее дерево__
+
+![летнее дерево](Bankoboev.Ru_503204.jpg)
 
 
 
