@@ -50,6 +50,8 @@ __Цитаты из книг:__
 
 ![дерево](beautiful-trees-wallpapers-43.jpg)
 
+![кот](1619665330_3-oir_mobi-p-samii-krasivii-kot-v-mire-zhivotnie-krasiv-3.jpg)
+
 
 
 
