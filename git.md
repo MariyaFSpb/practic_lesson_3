@@ -19,9 +19,9 @@ Markdown не является заменой HTML.
    + "Head First Java, Изучаем Java",  Кэти Сьерра, Берт Бэйтс
    + Ян Эрик Солем «Программирование компьютерного зрения на Python»
    + Изучаем Python Эрик Мэтиз
-
+картинки деревьев
 ![дерево](beautiful-trees-wallpapers-43.jpg)
-
+![осеннее дерево](kartinki24_ru_trees_210.jpg)
 
 
 
