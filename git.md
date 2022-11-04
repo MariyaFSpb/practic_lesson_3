@@ -52,6 +52,9 @@ __Цитаты из книг:__
 
 ![кот](1619665330_3-oir_mobi-p-samii-krasivii-kot-v-mire-zhivotnie-krasiv-3.jpg)
 
+![сова](sova.webp)
+
+
 
 
 
