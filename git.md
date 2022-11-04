@@ -1,6 +1,6 @@
 # Инструкция по использованию языка разметки
 
-## Язак разметки MarkDown
+## Язык разметки MarkDown
 
 Markdown не является заменой HTML.
 
@@ -35,6 +35,9 @@ __1. Весеннее дерево__
 ![дерево](beautiful-trees-wallpapers-43.jpg)
 
 ![кот](1619665330_3-oir_mobi-p-samii-krasivii-kot-v-mire-zhivotnie-krasiv-3.jpg)
+
+![сова](sova.webp)
+
 
 
 __2. Осеннее дерево__
