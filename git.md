@@ -47,5 +47,7 @@ __3. Летнее дерево__
 
 ![летнее дерево](Bankoboev.Ru_503204.jpg)
 
+![рыжий кот](1619450425_17-oir_mobi-p-krasivii-kot-zhivotnie-krasivo-foto-19.jpg)
+
 
 
