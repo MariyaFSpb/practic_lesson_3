@@ -34,6 +34,8 @@ __ФОТО ДЕРЕВЬЕВ__:
 __1. Весеннее дерево__
 ![дерево](beautiful-trees-wallpapers-43.jpg)
 
+![кот](1619665330_3-oir_mobi-p-samii-krasivii-kot-v-mire-zhivotnie-krasiv-3.jpg)
+
 
 __2. Осеннее дерево__
 ![осеннее дерево](kartinki24_ru_trees_210.jpg)
